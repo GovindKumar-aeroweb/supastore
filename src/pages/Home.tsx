@@ -68,7 +68,7 @@ export function Home() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1587049352847-4d4b126a51ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+            src="https://img.freepik.com/free-vector/yellow-hexagonal-honeycomb-mesh-pattern-with-text-space_1017-26292.jpg"
             alt="Honey background"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
